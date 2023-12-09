@@ -24,5 +24,5 @@ I'm a student passionate about exploring new and fascinating technologies and kn
 Feel free to reach out if you share similar interests or have any cool tech insights to share!
 
 
-![my photo](https://github.com/yangmoulalala/yangmoulalala/assets/121762861/eafc4e18-87ae-4227-98f3-879386e6ed7f)
+![my photo](https://github.com/yangmoulalala/yangmoulalala/assets/121762861/eafc4e18-87ae-4227-98f3-879386e6ed7f.png #pic_center =600x600)
 
